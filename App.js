@@ -23,7 +23,7 @@ const TabNavigator = createBottomTabNavigator({
       
       routeName
     //  const routeName = navigation.routeName;
-    // const routeName = navigation.state.routeName;
+     const routeName = navigation.state.routeName;
     //  const routeName = navigation.state;
     //  const routeName = state.routeName.navigation;
        
